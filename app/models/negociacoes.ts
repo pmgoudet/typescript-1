@@ -10,4 +10,4 @@ export class Negociacoes {
   listar(): ReadonlyArray<Negociacao> {
     return this.negociacoes;
   }
-}
+} 
